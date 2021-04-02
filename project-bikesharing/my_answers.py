@@ -144,3 +144,9 @@ iterations = 100
 learning_rate = 0.1
 hidden_nodes = 2
 output_nodes = 1
+
+
+#############################################################
+# New code 
+new_iterations = 100
+new_learning_rate = 0.1
