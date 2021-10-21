@@ -1,5 +1,6 @@
 import numpy as np
 
+# Added a comment
 
 class NeuralNetwork(object):
     def __init__(self, input_nodes, hidden_nodes, output_nodes, learning_rate):
